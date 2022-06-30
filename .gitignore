@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Text Editor/task/build/
+/Text Editor/task/out/
+/Text Editor/task/out/production/classes/
+/Topics/Match results/Check the essay/out/
+/Topics/Match results/Check the essay/out/production/classes/
+/Topics/Match results/Find all passwords (1)/out/
+/Topics/Match results/Find all passwords (1)/out/production/classes/
+/Topics/Queue and Stack/Creating queue/out/
+/Topics/Queue and Stack/Creating queue/out/production/classes/
